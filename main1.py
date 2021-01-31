@@ -1,5 +1,6 @@
 def main(msg):
+    // print a message
     print(msg)
 
 
-main ("Hello world test funtion")
+main ("Hello world test function")
