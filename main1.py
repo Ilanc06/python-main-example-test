@@ -3,4 +3,4 @@ def main(msg):
     print(msg)
 
 
-main ("Hello world test function")
+main ("Hello world test function via ide" )
